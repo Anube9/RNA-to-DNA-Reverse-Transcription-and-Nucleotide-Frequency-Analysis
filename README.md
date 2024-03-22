@@ -4,9 +4,9 @@ This project aims to showcase the reverse transcription of  RNA sequences into D
 # Install Required Packages
 Before running the program, make sure to install the necessary R packages:<br>
 ```
-install.packages("qPCRtools")<br>
-install.packages("Biostrings")<br>
-install.packages("magrittr")<br>
+install.packages("qPCRtools")
+install.packages("Biostrings")
+install.packages("magrittr")
 ```
 
 # Input RNA Sequences
