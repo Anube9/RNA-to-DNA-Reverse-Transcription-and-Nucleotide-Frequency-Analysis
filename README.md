@@ -3,9 +3,11 @@ This project aims to showcase the reverse transcription of  RNA sequences into D
 
 # Install Required Packages
 Before running the program, make sure to install the necessary R packages:<br>
+```
 install.packages("qPCRtools")<br>
 install.packages("Biostrings")<br>
 install.packages("magrittr")<br>
+```
 
 # Input RNA Sequences
 Provide the RNA sequences in fasta format. For example, RNA-sequence1.fna and RNA-sequence2.fna.
