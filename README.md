@@ -2,7 +2,7 @@
 This project aims to showcase the reverse transcription of  RNA sequences into DNA sequences and analyze the nucleotide frequencies, including di-nucleotide and tri-nucleotide frequencies.
 
 # Install Required Packages
-Before running the program, make sure to install the necessary R packages:
+Before running the program, make sure to install the necessary R packages:<br>
 install.packages("qPCRtools")
 install.packages("Biostrings")
 install.packages("magrittr")
