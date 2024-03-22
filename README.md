@@ -7,6 +7,10 @@ Before running the program, make sure to install the necessary R packages:<br>
 install.packages("qPCRtools")
 install.packages("Biostrings")
 install.packages("magrittr")
+library(qPCRtools)
+library(magrittr)
+library(Biostrings)
+
 ```
 
 # Input RNA Sequences
